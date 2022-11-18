@@ -702,6 +702,10 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 
   top: 5rem;
 }
+.pic-item>div{
+  padding: 1rem 1.1rem;
+}
+
 }
 @media only screen and (max-width: 480px){
   .pic-sec, .pic-sec img {
