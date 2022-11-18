@@ -56,8 +56,10 @@ export default function Body(props) {
             </div>
           </div>
         </div>
+
         <div class="pic-sec">
           <img  src="https://i.ibb.co/R4LyWNQ/Image-2.png" />
+          <h1><span>Our Plans</span></h1>
           <div class="pic-sec-cont">
           <div class="pic-item">
             <div>
