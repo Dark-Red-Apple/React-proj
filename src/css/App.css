@@ -559,6 +559,21 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   100%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
 }
 @media only screen and (max-width:766px) {
+  .sec_cont{
+    flex-direction: column;
+  }
+  .sec_cont{
+    flex-direction: column;
+  }
+  .sec_wrap {
+    padding: 1rem 1rem;
+  }
+  .pic-sec img{
+    height:85rem;
+  }
+  .pic-sec {
+    height: 85rem;
+  }
   .wrapper{
       margin: 0.5em;
   }
