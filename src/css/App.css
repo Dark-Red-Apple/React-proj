@@ -75,7 +75,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   min-height: 4em;
   /* display: flex; */
   /* background: #f1f1f1; */
-  width: 80%;
+  width: 70%;
   align-items: center;
   justify-content: center;
   flex-direction: row;
