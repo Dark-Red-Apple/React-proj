@@ -581,8 +581,14 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
       width: 100%;
       min-height: 414px;
   }
+  .two-elems>div:nth-child(2){
+    padding: 0;
+  }
+  .two-elems>div p {
+    padding: 20px;
 }
-@media only screen and (min-width:768px) and (max-width:990px) {
+}
+@media only screen and (min-width:768px) and (max-width:1200px) {
   .wrapper{
       margin: 0.5em;
   }
@@ -590,4 +596,18 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
       width: 90%;
       min-height: 414px;
   }
+  .sec_cont {
+    flex-wrap: wrap;
+}
+  .sec_item {
+
+  flex: 50%;
+}
+.pic-item {
+
+  flex: 33%;
+}
+.pic-sec-cont {
+  flex-wrap: wrap;
+}
 }
