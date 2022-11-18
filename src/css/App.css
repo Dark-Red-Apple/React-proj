@@ -627,6 +627,13 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   90%  {  background: linear-gradient(to right, #0080ef 90%, #ef6f00 100%);}
   100%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
 }
+
+@media only screen and (max-width: 480px){
+  .pic-sec, .pic-sec img {
+    height: 114rem;
+}
+}
+
 @media only screen and (max-width:766px) {
   .sec_cont{
     flex-direction: column;
