@@ -480,6 +480,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   box-sizing: border-box;
   
 }
+
 .sec_item h3{
   /* box-shadow: 1px 1px 3px 1px rgb(143 164 181); */
   padding: 10px;
@@ -488,6 +489,30 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .sec_item p{
 
   padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+.sec_item>div:hover {
+  box-shadow: 1px 1px 10px 2px #dbc9b8;
+  padding: 49px;
+}
+.sec_item>div:hover > h3 {
+  color: #0080ef;
+}
+
+.logo svg{
+  display: block;
+  width: 90%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.logo svg text{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
 }
 .sec_item > div {
   border-bottom: 2px solid #0080ef;
@@ -501,7 +526,8 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   align-items: center;
   justify-content: center;
   text-align: center;
-
+  transition: all 0.2s linear;
+  cursor: pointer;
 }
 .sec-title{
   /* font-size: 2rem; */
@@ -550,6 +576,9 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   height: auto;
   padding: 2rem 1rem;
 }
+.pic-item ul{
+  font-size: 1.3rem;
+}
 .pic-item>div{
   background: #ffffffde;
   min-height: 20rem;
@@ -559,6 +588,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   background: #eed7c4e8;
 
 }
+
 .header> div:first-child{
   width:25%;
 }
