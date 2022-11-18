@@ -442,7 +442,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   font-style: italic;
 }
 .landing-banner .banner-content a{
-  color: white;
+  color: #000;
   font-size: 2rem;
 }
 
@@ -453,7 +453,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   /* width: 8rem; */
   padding:10px 20px;
   background: #00F5FF ;
-  color: white;
+  color: #000;
   cursor: pointer; 
   /* help the cpu by using gpu*/
   transform: translateZ(0);
