@@ -568,8 +568,8 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .header>div:nth-child(2){
   width:50%;
 }
-.react-Slidy > div{
-  white-space: unset;
+.slide p{
+  white-space: normal;
 }
 @keyframes gradient-in {
   0%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
@@ -608,10 +608,10 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     padding: 1rem 1rem;
   }
   .pic-sec img{
-    height:90rem;
+    height:99rem;
   }
   .pic-sec {
-    height: 90rem;
+    height: 99rem;
   }
   .wrapper{
       /* margin: 0.5em; */
@@ -653,8 +653,8 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .landing-banner .banner-content a {
   font-size: 1.4rem;
 }
-.react-Slidy > div{
-  white-space: unset;
+.slide p{
+  white-space: normal;
 }
 .search-form input[type=text]{
   display: none;
@@ -664,6 +664,10 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 }
 .logo{
   font-size: 20px;
+}
+.pic-sec-cont {
+
+  top: 5rem;
 }
 }
 @media only screen and (min-width:768px)  and (max-width:766px) {
