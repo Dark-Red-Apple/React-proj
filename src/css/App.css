@@ -628,11 +628,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   100%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
 }
 
-@media only screen and (max-width: 480px){
-  .pic-sec, .pic-sec img {
-    height: 114rem;
-}
-}
+
 
 @media only screen and (max-width:766px) {
   .sec_cont{
@@ -705,6 +701,11 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .pic-sec-cont {
 
   top: 5rem;
+}
+}
+@media only screen and (max-width: 480px){
+  .pic-sec, .pic-sec img {
+    height: 114rem;
 }
 }
 @media only screen and (min-width:768px)  and (max-width:766px) {
