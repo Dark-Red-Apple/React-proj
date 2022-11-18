@@ -58,7 +58,7 @@ export default function Body(props) {
         </div>
 
         <div class="pic-sec">
-          <img  src="https://i.ibb.co/R4LyWNQ/Image-2.png" />
+          {/* <img  src="https://i.ibb.co/R4LyWNQ/Image-2.png" /> */}
           <h1><span>Our Plans</span></h1>
           <div class="pic-sec-cont">
           <div class="pic-item">
@@ -95,7 +95,7 @@ export default function Body(props) {
           </div>
           <div class="pic-item">
             <div>
-            <h3><b style={{color: "#EA047E"}}>Pro Plan</b> for <b style={{color: "#EA047E"}}>$150</b> per year</h3>
+            <h3><b style={{color: "rgb(252 231 0)"}}>Pro Plan</b> for <b style={{color: "rgb(252 231 0)"}}>$150</b> per year</h3>
             <p>
               <ul>
                 <li>Unlimited downloads</li>
