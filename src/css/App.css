@@ -562,7 +562,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   .sec_cont{
     flex-direction: column;
   }
-  .sec_cont{
+  .pic-sec-cont{
     flex-direction: column;
   }
   .sec_wrap {
