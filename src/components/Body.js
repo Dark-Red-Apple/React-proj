@@ -63,7 +63,7 @@ export default function Body(props) {
           <div class="pic-sec-cont">
           <div class="pic-item">
             <div>
-            <h3><b style={{color: "#ef6f00"}}>Basic Plan</b> for <b style={{color: "#ef6f00"}}>$9</b> a month</h3>
+            <h3><b style={{color: "#EA047E"}}>Basic Plan</b> for <b style={{color: "#EA047E"}}>$9</b> a month</h3>
             <p>
               <ul>
                 <li>10 downloads per month </li>
@@ -79,7 +79,7 @@ export default function Body(props) {
           </div>
           <div class="pic-item">
             <div>
-            <h3><b style={{color: "#ef6f00"}}>Advanced Plan</b> for <b style={{color: "#ef6f00"}}>$99</b> per year</h3>
+            <h3><b style={{color: "#EA047E"}}>Advanced Plan</b> for <b style={{color: "#EA047E"}}>$99</b> per year</h3>
             <p>
               <ul>
                 <li>20 downloads per month</li>
@@ -95,7 +95,7 @@ export default function Body(props) {
           </div>
           <div class="pic-item">
             <div>
-            <h3><b style={{color: "#ef6f00"}}>Pro Plan</b> for <b style={{color: "#ef6f00"}}>$150</b> per year</h3>
+            <h3><b style={{color: "#EA047E"}}>Pro Plan</b> for <b style={{color: "#EA047E"}}>$150</b> per year</h3>
             <p>
               <ul>
                 <li>Unlimited downloads</li>
