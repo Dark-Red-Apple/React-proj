@@ -700,7 +700,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 }
 .pic-sec-cont {
 
-  top: 5rem;
+  top: 1rem;
 }
 .pic-item>div{
   padding: 1rem 1.1rem;
@@ -709,7 +709,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 }
 @media only screen and (max-width: 480px){
   .pic-sec, .pic-sec img {
-    height: 114rem;
+    height: 106rem;
 }
 }
 @media only screen and (min-width:768px)  and (max-width:766px) {
