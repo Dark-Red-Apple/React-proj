@@ -70,7 +70,7 @@ export default function Body(props) {
                 <li>1080 video quality</li>
               </ul>
             </p>
-            <a class="button-gradient gradient-out " href="#product-value">
+            <a class="button-gradient gradient-out " >
             <span>Buy Now!</span>
             </a>
             </div>
@@ -86,7 +86,7 @@ export default function Body(props) {
                 <li>Ultra HD video quality</li>
               </ul>
             </p>
-            <a class="button-gradient gradient-out " href="#product-value">
+            <a class="button-gradient gradient-out " >
             <span>Buy Now!</span>
             </a>
             </div>
@@ -104,7 +104,7 @@ export default function Body(props) {
                 <li>Access Oculus VR experiences</li>
               </ul>
             </p>
-            <a class="button-gradient gradient-out " href="#product-value">
+            <a class="button-gradient gradient-out ">
             <span>Buy Now!</span>
             </a>
             </div>
