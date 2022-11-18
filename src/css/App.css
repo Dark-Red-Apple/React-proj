@@ -709,7 +709,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 }
 @media only screen and (max-width: 480px){
   .pic-sec, .pic-sec img {
-    height: 106rem;
+    height: 94rem;
 }
 }
 @media only screen and (min-width:768px)  and (max-width:766px) {
