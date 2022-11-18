@@ -1,7 +1,7 @@
 body, html{
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 h2{
   font-size: 2rem;
@@ -570,10 +570,10 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     padding: 1rem 1rem;
   }
   .pic-sec img{
-    height:85rem;
+    height:90rem;
   }
   .pic-sec {
-    height: 85rem;
+    height: 90rem;
   }
   .wrapper{
       margin: 0.5em;
@@ -587,6 +587,15 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   }
   .two-elems>div p {
     padding: 20px;
+}
+.two-elems{
+  flex-direction: column;
+}
+.two-elems>div {
+  width: 100%;
+}
+.two-elems>div:nth-child(2) {
+  width: 100%;
 }
 }
 @media only screen and (min-width:768px) and (max-width:1200px) {
