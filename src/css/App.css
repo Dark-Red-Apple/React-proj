@@ -64,7 +64,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .header{
   min-height: 4em;
   display: flex;
-  background: #ef6f00;
+  background: #EA047E;
   width: 100%;
   align-items: center;
   justify-content: center;
@@ -337,7 +337,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   background: white;
   padding: 1rem 2rem;
   border-radius: 10px;
-  border: 1px solid #0080ef;
+  border: 1px solid #00F5FF;
 }
 .slide h2, .slide h3{
   margin: 2px 0;
@@ -352,7 +352,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #d2eaff;
+  background: #FCE700;
 }
 .two-elems>div{
   width: 50%;
@@ -452,7 +452,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   text-align:center;
   /* width: 8rem; */
   padding:10px 20px;
-  background: #0080ef ;
+  background: #00F5FF ;
   color: white;
   cursor: pointer; 
   /* help the cpu by using gpu*/
@@ -515,7 +515,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   font-size: 50px;
 }
 .sec_item > div {
-  border-bottom: 2px solid #0080ef;
+  border-bottom: 2px solid #00F5FF;
   background: white;
   box-shadow: 1px 1px 10px 1px rgb(154 154 154);
   border-radius: 10px;
@@ -531,7 +531,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 }
 .sec-title{
   /* font-size: 2rem; */
-  border-bottom: 3px solid #ef6f00;
+  border-bottom: 3px solid #FF6D28;
   padding-bottom: 0.5rem;
 }
 .pic-sec{
@@ -585,7 +585,7 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   padding: 2rem 3rem;
 }
 .pic-item:nth-child(3)>div{
-  background: #eed7c4e8;
+  background: #00f5ffe6;
 
 }
 
@@ -602,30 +602,30 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   white-space: normal;
 }
 @keyframes gradient-in {
-  0%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
-  10%  {  background: linear-gradient(to right, #0080ef 90%, #ef6f00 100%);}
-  20%  {  background: linear-gradient(to right, #0080ef 80%, #ef6f00 100%);}
-  30%  {  background: linear-gradient(to right, #0080ef 70%, #ef6f00 100%);}
-  40%  {  background: linear-gradient(to right, #0080ef 60%, #ef6f00 100%);}
-  50%  {  background: linear-gradient(to right, #0080ef 50%, #ef6f00 100%);} 
-  60%  {  background: linear-gradient(to right, #0080ef 40%, #ef6f00 100%);}
-  70%  {  background: linear-gradient(to right, #0080ef 30%, #ef6f00 100%);}
-  80%  {  background: linear-gradient(to right, #0080ef 20%, #ef6f00 100%);}
-  90%  {  background: linear-gradient(to right, #0080ef 10%, #ef6f00 100%);}
-  100%  {  background: linear-gradient(to right, #0080ef 0%, #ef6f00 100%);}
+  0%  {  background: linear-gradient(to right, #00F5FF 100%, #FF6D28 100%);}
+  10%  {  background: linear-gradient(to right, #00F5FF 90%, #FF6D28 100%);}
+  20%  {  background: linear-gradient(to right, #00F5FF 80%, #FF6D28 100%);}
+  30%  {  background: linear-gradient(to right, #00F5FF 70%, #FF6D28 100%);}
+  40%  {  background: linear-gradient(to right, #00F5FF 60%, #FF6D28 100%);}
+  50%  {  background: linear-gradient(to right, #00F5FF 50%, #FF6D28 100%);} 
+  60%  {  background: linear-gradient(to right, #00F5FF 40%, #FF6D28 100%);}
+  70%  {  background: linear-gradient(to right, #00F5FF 30%, #FF6D28 100%);}
+  80%  {  background: linear-gradient(to right, #00F5FF 20%, #FF6D28 100%);}
+  90%  {  background: linear-gradient(to right, #00F5FF 10%, #FF6D28 100%);}
+  100%  {  background: linear-gradient(to right, #00F5FF 0%, #FF6D28 100%);}
 }
 @keyframes gradient-out {
-  0%   {  background: linear-gradient(to right, #0080ef 0%, #ef6f00 100%);}
-  10%  {  background: linear-gradient(to right, #0080ef 10%, #ef6f00 100%);}
-  20%  {  background: linear-gradient(to right, #0080ef 20%, #ef6f00 100%);}
-  30%  {  background: linear-gradient(to right, #0080ef 30%, #ef6f00 100%);}
-  40%  {  background: linear-gradient(to right, #0080ef 40%, #ef6f00 100%);}
-  50%  {  background: linear-gradient(to right, #0080ef 50%, #ef6f00 100%);} 
-  60%  {  background: linear-gradient(to right, #0080ef 60%, #ef6f00 100%);}
-  70%  {  background: linear-gradient(to right, #0080ef 70%, #ef6f00 100%);}
-  80%  {  background: linear-gradient(to right, #0080ef 80%, #ef6f00 100%);}
-  90%  {  background: linear-gradient(to right, #0080ef 90%, #ef6f00 100%);}
-  100%  {  background: linear-gradient(to right, #0080ef 100%, #ef6f00 100%);}
+  0%   {  background: linear-gradient(to right, #00F5FF 0%, #FF6D28 100%);}
+  10%  {  background: linear-gradient(to right, #00F5FF 10%, #FF6D28 100%);}
+  20%  {  background: linear-gradient(to right, #00F5FF 20%, #FF6D28 100%);}
+  30%  {  background: linear-gradient(to right, #00F5FF 30%, #FF6D28 100%);}
+  40%  {  background: linear-gradient(to right, #00F5FF 40%, #FF6D28 100%);}
+  50%  {  background: linear-gradient(to right, #00F5FF 50%, #FF6D28 100%);} 
+  60%  {  background: linear-gradient(to right, #00F5FF 60%, #FF6D28 100%);}
+  70%  {  background: linear-gradient(to right, #00F5FF 70%, #FF6D28 100%);}
+  80%  {  background: linear-gradient(to right, #00F5FF 80%, #FF6D28 100%);}
+  90%  {  background: linear-gradient(to right, #00F5FF 90%, #FF6D28 100%);}
+  100%  {  background: linear-gradient(to right, #00F5FF 100%, #FF6D28 100%);}
 }
 
 
