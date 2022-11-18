@@ -597,6 +597,15 @@ input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 .two-elems>div:nth-child(2) {
   width: 100%;
 }
+.slide {
+  padding: 0;
+}
+.landing-banner .banner-content h1{
+  font-size: 2rem;
+}
+.banner-content{
+  padding: 1rem;
+}
 }
 @media only screen and (min-width:768px) and (max-width:1200px) {
   .wrapper{
