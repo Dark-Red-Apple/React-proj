@@ -35,14 +35,14 @@ import React, { Component } from 'react'
     render() {
         
         return (
-            <div className='search'>
-                <div style={{width: "30%"}} >               
-                    <form className='search-form' onSubmit={this.loadFounds} action=''>
-                        <input name="userName" id="user-name" type="text" placeholder="Please write the item's name"/>
-                        <input type="submit" value="search"/>
-                    </form>
-                </div>
-            </div>
+            // <div className='search'>
+            //     <div style={{width: "30%"}} >               
+            //         <form className='search-form' onSubmit={this.loadFounds} action=''>
+            //             <input name="userName" id="user-name" type="text" placeholder="Please write the item's name"/>
+            //             <input type="submit" value="search"/>
+            //         </form>
+            //     </div>
+            // </div>
         )
     }
     
