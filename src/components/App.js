@@ -12,7 +12,9 @@ import './../css/App.css'
         return (
             <div className='wrapper'>
                 <Header />
-                <Body />                
+                <Body />  
+         
+         
                 {/* <Footer /> */}
             </div>
             
